@@ -1,0 +1,2 @@
+LOGIN:admin SENHA:admin @adm@admin#1001
+LOGIN:livia SENHA:123 @Usuário@livia#1002

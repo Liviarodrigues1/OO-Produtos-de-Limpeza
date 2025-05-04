@@ -1,0 +1,14 @@
+Sabonete@Banheiro@1@94@1020
+Desinfetante OMO@Banheiro@8@92@1024
+Água Sanitária Ypê 2L@Banheiro@5@90@1025
+Limpador Sanitário Cloro Gel @Banheiro@8@97@1026
+Saco para Lixo Reforçado@Casa@8@95@1027
+Pano Multiuso@Casa@10@95@1028
+Vassoura@Casa@5@97@1029
+Pá de lixo@Casa@3@98@1030
+Detergente Líquido@Cozinha@1@93@1031
+Esponja@Cozinha@2@94@1032
+Bombril@Cozinha@2@94@1033
+Sabão em Pasta @Cozinha@5@95@1034
+Amaciante OMO@Roupas@12@88@1035
+Sabão em pó OMO@Roupas@7@89@1036
